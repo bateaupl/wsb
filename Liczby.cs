@@ -1,7 +1,7 @@
 
 using System;
 
-class Zad_2_4
+class Zad_2_4_programowanie_csharp
 {
     static void Main()
     {
